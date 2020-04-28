@@ -1,0 +1,2 @@
+rootProject.name='ListagemSimples'
+include ':app'
